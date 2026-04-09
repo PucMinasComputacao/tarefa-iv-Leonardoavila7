@@ -26,6 +26,7 @@ O objetivo é apresentar destinos turísticos com imagens e descrições, além 
 <img width="1585" height="722" alt="image" src="https://github.com/user-attachments/assets/9f67c65b-58d6-462e-b228-85b0cf4ace74" />
 <img width="1570" height="701" alt="image" src="https://github.com/user-attachments/assets/bbb2e9c8-6acc-49e5-83a0-7c6347893b71" />
 <img width="1918" height="763" alt="Captura de tela 2026-04-08 220506" src="https://github.com/user-attachments/assets/d4ed2865-5486-4f0e-85c3-b44f4f625b32" />
+<img width="806" height="951" alt="Captura de tela 2026-04-08 220543" src="https://github.com/user-attachments/assets/bcf0194f-09f4-4267-9db5-5c30df6d3f56" />
 
 
 
